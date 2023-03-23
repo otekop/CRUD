@@ -1,7 +1,7 @@
 # CRUD Application
 A simple CRUD application based on **Flask** and **SQLAlchemy**
 
-[Link to the recommender system](https://colab.research.google.com/drive/1h_zc7tlxE8o2Bj8bVTOoPxG6M7EvOuhg)
+[Link to the recommender system](https://colab.research.google.com/drive/1h_zc7tlxE8o2Bj8bVTOoPxG6M7EvOuhg#scrollTo=AnHRQWcufZPB)
 
 [Classification](https://colab.research.google.com/drive/1tu0UvkIfVszdFlbLzBaO3ux1r9SZEwaI?usp=sharing)
 [Regression](https://colab.research.google.com/drive/1FdmvPBshuGra9VuuPj7ABoRb3IrUPvT5?usp=sharing)
